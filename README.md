@@ -134,9 +134,9 @@ Learning by working with datasets and iterating on models.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARMedAndCurious&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMedAndCurious&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 <br/><br/>
 
